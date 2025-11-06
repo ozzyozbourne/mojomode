@@ -1,0 +1,11 @@
+---
+.title = "References",
+.date = @date("2025-11-06T00:00:00"),
+.author = "Osaid Khan",
+.layout = "index.shtml",
+.draft = false,
+--- 
+
+### Official Docs
+1. [Mojo Manual](https://docs.modular.com/mojo/manual/)
+2. [Mojo API Refernce](https://docs.modular.com/mojo/lib/)
