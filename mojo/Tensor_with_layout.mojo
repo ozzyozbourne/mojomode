@@ -2,11 +2,10 @@ from memory import alloc
 from layout import Layout, LayoutTensor, print_layout
 from collections import InlineArray
 from time import perf_counter_ns
-# from benchmark import keep
 
-alias M = 2048
-alias K = 2048
-alias N = 2048
+alias M = 2
+alias K = 2
+alias N = 2
 
 alias layout_A = Layout.col_major(M, K)
 alias layout_B = Layout.row_major(K, N)
@@ -25,8 +24,6 @@ fn matmul_bad(
                 # B[k,j] in row-major: offset = k*N + j (stride N between elements!)
                 sum += A[i, k][0] * B[k, j][0]
             C[i, j] = sum
-    
-
 
 fn main():
     
@@ -40,21 +37,29 @@ fn main():
     
     for i in range(M):
         for j in range(K):
-            A[i, j] = 1.0
+            A[i, j][0] = 2*j
+
+    print_layout(layout_A)
     
     for i in range(K):
         for j in range(N):
-            B[i, j] = 1.0
-    
+            B[i, j][0] = 3*j
+
+    print_layout(layout_B)
+
     for i in range(M):
         for j in range(N):
             C[i, j] = 0.0
+
+    print_layout(layout_C)
     
-    print("\nStarting computation...")
-    
-    start = perf_counter_ns()
     matmul_bad(A, B, C)
-    end = perf_counter_ns()
-    # keep(C)  
-    var elapsed_ms = (end - start) / 1_000_000
-    print("Time: ", elapsed_ms, " ms")
+
+    print(A)
+    print()
+
+    print(B)
+    print()
+
+    print(C)
+    

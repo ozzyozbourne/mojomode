@@ -1,4 +1,3 @@
-
 from memory import alloc
 from time import perf_counter_ns
 from layout import Layout, LayoutTensor

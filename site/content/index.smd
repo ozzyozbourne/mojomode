@@ -14,7 +14,13 @@
 1. [Vector_add](https://colab.research.google.com/drive/1mPHszC2maSgSIVKrTYsv6FBJYjbB2yGn?usp=sharing)
 2. [Layouts](https://colab.research.google.com/drive/1rVef7q47WtDPrtnx0M1NEKIs422YCyHC?usp=sharing)
 3. [simd_width](https://colab.research.google.com/drive/1IPXIQDh-2G3qAN763SIBiATQVj3tfrZJ?usp=sharing)
-4. [tensor_ops](https://colab.research.google.com/drive/1DBFVuRxaa9AO4tPDK2SEjxMYqOHwzU14?usp=sharing)
+4. [Tensor with layout](https://colab.research.google.com/drive/1BIJgPb4sst4BJQP0fzISt0dqPGeWPIUZ?usp=sharing)
+5. [Matmul Unoptimized](https://colab.research.google.com/drive/1iVKm22umGkw0C7pAPthU47_7KqThVC2M?usp=sharing)
+6. [Matmul Optimized](https://colab.research.google.com/drive/1a87QTrX3bdVcfAjrN4Wrmi8R1zikmIJK?usp=sharing)
+7. [Matmul FMA SIMD Op](https://colab.research.google.com/drive/1Xw9d2MgT4_Jl90M6uqL3YebY9A8QagU5?usp=sharing)
+8. [Cuda Tensor Core Op](https://colab.research.google.com/drive/1DBFVuRxaa9AO4tPDK2SEjxMYqOHwzU14?usp=sharing)
+8. [Hello World Of Machine Learning in MOJO]()
+9. [Simple OR Gate]()
 
 ## References
 1. [Mojo Manual](https://docs.modular.com/mojo/manual/)
