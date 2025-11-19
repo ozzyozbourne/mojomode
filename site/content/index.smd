@@ -19,8 +19,6 @@
 6. [Matmul Optimized](https://colab.research.google.com/drive/1a87QTrX3bdVcfAjrN4Wrmi8R1zikmIJK?usp=sharing)
 7. [Matmul FMA SIMD Op](https://colab.research.google.com/drive/1Xw9d2MgT4_Jl90M6uqL3YebY9A8QagU5?usp=sharing)
 8. [Cuda Tensor Core Op](https://colab.research.google.com/drive/1eeplb1H-HCzhaqx6cBK1AMGFAm1adD6A?usp=sharing)
-8. [Hello World Of Machine Learning in MOJO]()
-9. [Simple OR Gate]()
 
 ## References
 1. [Mojo Manual](https://docs.modular.com/mojo/manual/)

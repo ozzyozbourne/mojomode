@@ -17,9 +17,11 @@ fn main():
         train[r, 0][0] = r
         train[r, 1][0] = r * 2 
     print(train)
-    w = 1
+
+    w = random_float64()
     eps = 1e-3
     print(cost(train, w), " ", cost(train, w - eps), " ", cost(train, w + eps))
+
     del1 = (cost(train, w + eps) - cost(train, w))/eps
     del2 = (cost(train, w - eps) - cost(train, w))/eps
 
@@ -28,6 +30,7 @@ fn main():
 
     print(del1, "   ",  del2)
     print(move1, "   ", move2)
+
 
 
 
