@@ -8,16 +8,15 @@
 
 ## [Mojo Slides](https://docs.google.com/presentation/d/1VKXmlAUZOQ_fPudlt-nqP47siwfcV05BeEhH8qy6hiU/edit?usp=sharing)
 
+### [Pixi Local setup](https://pixi.sh/dev/installation/#__tabbed_1_1)
 
 ### Worksheets
 1. [Vector_add](https://colab.research.google.com/drive/1mPHszC2maSgSIVKrTYsv6FBJYjbB2yGn?usp=sharing)
 2. [Layouts](https://colab.research.google.com/drive/1rVef7q47WtDPrtnx0M1NEKIs422YCyHC?usp=sharing)
-3. [tensor_ops](https://colab.research.google.com/drive/1DBFVuRxaa9AO4tPDK2SEjxMYqOHwzU14?usp=sharing)
-4. [simd_width](https://colab.research.google.com/drive/1IPXIQDh-2G3qAN763SIBiATQVj3tfrZJ?usp=sharing)
-
+3. [simd_width](https://colab.research.google.com/drive/1IPXIQDh-2G3qAN763SIBiATQVj3tfrZJ?usp=sharing)
+4. [tensor_ops](https://colab.research.google.com/drive/1DBFVuRxaa9AO4tPDK2SEjxMYqOHwzU14?usp=sharing)
 
 ## References
-
 1. [Mojo Manual](https://docs.modular.com/mojo/manual/)
 2. [Mojo API Refernce](https://docs.modular.com/mojo/lib/)
 3. [Youtube](https://www.youtube.com/watch?v=2EWDG_Dxjs8&list=LL&index=1)
