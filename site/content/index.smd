@@ -11,8 +11,9 @@
 
 ### Worksheets
 1. [Vector_add](https://colab.research.google.com/drive/1mPHszC2maSgSIVKrTYsv6FBJYjbB2yGn?usp=sharing)
-2. [tensor_ops](https://colab.research.google.com/drive/1DBFVuRxaa9AO4tPDK2SEjxMYqOHwzU14?usp=sharing)
-3. [simd_width](https://colab.research.google.com/drive/1IPXIQDh-2G3qAN763SIBiATQVj3tfrZJ?usp=sharing)
+2. [Layouts](https://colab.research.google.com/drive/1rVef7q47WtDPrtnx0M1NEKIs422YCyHC?usp=sharing)
+3. [tensor_ops](https://colab.research.google.com/drive/1DBFVuRxaa9AO4tPDK2SEjxMYqOHwzU14?usp=sharing)
+4. [simd_width](https://colab.research.google.com/drive/1IPXIQDh-2G3qAN763SIBiATQVj3tfrZJ?usp=sharing)
 
 
 ## References
