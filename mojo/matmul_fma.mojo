@@ -4,6 +4,7 @@ from layout import Layout, LayoutTensor
 from collections import InlineArray
 from math import fma
 from sys import simd_width_of
+from benchmark import keep
 
 alias M = 2048
 alias K = 2048
@@ -71,6 +72,7 @@ fn main():
     matmul_fma(A, B, C)
     end = perf_counter_ns()
     
+    keep(C)
     elapsed_ms = (end - start) / 1_000_000
     print("Time: ", elapsed_ms, " ms")
 

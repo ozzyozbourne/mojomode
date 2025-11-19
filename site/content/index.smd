@@ -18,7 +18,7 @@
 5. [Matmul Unoptimized](https://colab.research.google.com/drive/1iVKm22umGkw0C7pAPthU47_7KqThVC2M?usp=sharing)
 6. [Matmul Optimized](https://colab.research.google.com/drive/1a87QTrX3bdVcfAjrN4Wrmi8R1zikmIJK?usp=sharing)
 7. [Matmul FMA SIMD Op](https://colab.research.google.com/drive/1Xw9d2MgT4_Jl90M6uqL3YebY9A8QagU5?usp=sharing)
-8. [Cuda Tensor Core Op](https://colab.research.google.com/drive/1DBFVuRxaa9AO4tPDK2SEjxMYqOHwzU14?usp=sharing)
+8. [Cuda Tensor Core Op](https://colab.research.google.com/drive/1eeplb1H-HCzhaqx6cBK1AMGFAm1adD6A?usp=sharing)
 8. [Hello World Of Machine Learning in MOJO]()
 9. [Simple OR Gate]()
 
@@ -31,4 +31,4 @@
 6. [Apple GPU MOJO Vedio](https://www.youtube.com/watch?v=t2hAfgDYHoc)
 7. [Modular github](https://github.com/modular/modular)
 8. [Mojo GPU puzzles](https://puzzles.modular.com/introduction.html)
-
+10. [Tensor core](https://www.youtube.com/watch?v=Cak8ASX7NOk)

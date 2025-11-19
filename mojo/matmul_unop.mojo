@@ -2,7 +2,7 @@ from memory import alloc
 from layout import Layout, LayoutTensor, print_layout
 from collections import InlineArray
 from time import perf_counter_ns
-# from benchmark import keep
+from benchmark import keep
 
 alias M = 2048
 alias K = 2048
@@ -55,6 +55,6 @@ fn main():
     start = perf_counter_ns()
     matmul_bad(A, B, C)
     end = perf_counter_ns()
-    # keep(C)  
+    keep(C)  
     var elapsed_ms = (end - start) / 1_000_000
     print("Time: ", elapsed_ms, " ms")
