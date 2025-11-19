@@ -10,18 +10,19 @@
 
 
 ### Worksheets
-1. [tensor_ops](https://colab.research.google.com/drive/1DBFVuRxaa9AO4tPDK2SEjxMYqOHwzU14?usp=sharing)
-2. [simd_width](https://colab.research.google.com/drive/1IPXIQDh-2G3qAN763SIBiATQVj3tfrZJ?usp=sharing)
-
+1. [Vector_add](https://colab.research.google.com/drive/1mPHszC2maSgSIVKrTYsv6FBJYjbB2yGn?usp=sharing)
+2. [tensor_ops](https://colab.research.google.com/drive/1DBFVuRxaa9AO4tPDK2SEjxMYqOHwzU14?usp=sharing)
+3. [simd_width](https://colab.research.google.com/drive/1IPXIQDh-2G3qAN763SIBiATQVj3tfrZJ?usp=sharing)
 
 
 ## References
 
-### Official Docs
 1. [Mojo Manual](https://docs.modular.com/mojo/manual/)
 2. [Mojo API Refernce](https://docs.modular.com/mojo/lib/)
-
-
-### Youtube
-1. [Zeno's Paradox](https://www.youtube.com/watch?v=u7Z9UnWOJNY)
+3. [Youtube](https://www.youtube.com/watch?v=2EWDG_Dxjs8&list=LL&index=1)
+4. [Gpu mode](https://www.youtube.com/watch?v=yOMflrCRya0)
+5. [Apple GPU](https://forum.modular.com/t/apple-silicon-gpu-support-in-mojo/2295/6)
+6. [Apple GPU MOJO Vedio](https://www.youtube.com/watch?v=t2hAfgDYHoc)
+7. [Modular github](https://github.com/modular/modular)
+8. [Mojo GPU puzzles](https://puzzles.modular.com/introduction.html)
 
