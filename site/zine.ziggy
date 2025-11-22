@@ -1,5 +1,5 @@
 Site {
-    .title = "MojoMode",
+    .title = "Pace AI Lab ",
     .host_url = "https://ozzyozbourne.github.io",
     .url_path_prefix = "mojomode",
     .content_dir_path = "content",

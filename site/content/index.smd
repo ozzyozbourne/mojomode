@@ -1,16 +1,16 @@
 ---
-.title = "Introduction to Mojo",
+.title = "Introduction to Mojo 🔥",
 .date = @date("2025-11-06T00:00:00"),
 .author = "Osaid Khan",
 .layout = "index.shtml",
 .draft = false,
 --- 
 
-## [Mojo Slides](https://docs.google.com/presentation/d/1VKXmlAUZOQ_fPudlt-nqP47siwfcV05BeEhH8qy6hiU/edit?usp=sharing)
+## [Google Slides](https://docs.google.com/presentation/d/1VKXmlAUZOQ_fPudlt-nqP47siwfcV05BeEhH8qy6hiU/edit?usp=sharing)
 
 ### [Pixi Local setup](https://pixi.sh/dev/installation/#__tabbed_1_1)
 
-### Worksheets
+### Google Collab Notebooks
 1. [Vector_add](https://colab.research.google.com/drive/1mPHszC2maSgSIVKrTYsv6FBJYjbB2yGn?usp=sharing)
 2. [Layouts](https://colab.research.google.com/drive/1rVef7q47WtDPrtnx0M1NEKIs422YCyHC?usp=sharing)
 3. [simd_width](https://colab.research.google.com/drive/1IPXIQDh-2G3qAN763SIBiATQVj3tfrZJ?usp=sharing)
